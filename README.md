@@ -14,3 +14,8 @@ If we repeat this process, we get a sequence of numbers:  203 -> 13 -> 10 -> 1 
 winning(11) ➞ false winning(107) ➞ false 
 
 .... I used recursion to solve this scenario
+
+
+you can view  the functionality of this app on
+
+https://willyserge.github.io/lotterApp-in-vanillaJs/
