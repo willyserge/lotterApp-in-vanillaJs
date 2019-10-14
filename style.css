@@ -1,0 +1,43 @@
+body{
+	background: #E0E0E0;
+}
+h2{
+	text-align: center;
+}
+
+.container{
+	background:#FFFFCC;
+	width: 450px;
+	margin: 30px auto;
+	
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	text-align: center;
+	border-radius:5px;
+
+  
+}
+button{
+	padding: 15px;
+	border: none;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	background: #33ff33;
+	border-radius:5px;
+	margin: 10px 0px;
+	
+}
+button:hover{
+	background: #CCFFFF;
+}
+
+}
+.checker{
+	
+	margin-left: 30px;
+
+}
+.all-numbers-container{
+    padding-top:30px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+}
