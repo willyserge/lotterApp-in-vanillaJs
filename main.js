@@ -43,7 +43,7 @@ const displayNums=(numbers)=>{
 }
 check_button.addEventListener('click',()=>{
     const win_status=document.querySelectorAll('.win');
-    win_status.forEach((lose)=>{lose.style.backgroundColor='red'})
+    win_status.forEach((lose)=>{lose.style.backgroundColor='green'})
     status_highlight.style.display='block';
 })
 
